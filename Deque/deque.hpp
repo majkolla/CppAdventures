@@ -8,6 +8,7 @@ methods:
 - pop_back
 operator[]
 - at
+test
 
 */
 
